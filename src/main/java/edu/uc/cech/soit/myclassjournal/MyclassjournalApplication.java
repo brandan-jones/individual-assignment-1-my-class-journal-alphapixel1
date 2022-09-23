@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyclassjournalApplication {
 
     public static void main(String[] args) {
+        System.err.println(new MyClassJournalController().index());
         SpringApplication.run(MyclassjournalApplication.class, args);
     }
 
