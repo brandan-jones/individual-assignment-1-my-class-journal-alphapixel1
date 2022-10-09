@@ -21,6 +21,7 @@ class MyclassjournalApplicationTests {
     void contextLoads() {
     }
 
+
     /**
      * Validate that the DTO properties can be set and retrieved.
      */
